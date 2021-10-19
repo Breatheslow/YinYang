@@ -33,16 +33,13 @@ li#nav
   padding: 9vw;
 }
 /*content section*/
-ul#stream
-{
-  text-align: center;
-  margin: auto;
-}
+
 li#stream
 {
   list-style-type: none;
   display: inline;
-  padding: 7vw;
+  padding: 6.5vw;
+
 }
 .yin
 {
