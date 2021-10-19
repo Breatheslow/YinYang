@@ -19,7 +19,7 @@ nav
   height: 10vw;
   margin: auto;
 }
-ul
+ul#nav
 {
   text-align: center;
   padding-left: 3vw;
@@ -32,7 +32,18 @@ li#nav
   display: inline;
   padding: 9vw;
 }
-
+/*content section*/
+ul#stream
+{
+  text-align: center;
+  margin: auto;
+}
+li#stream
+{
+  list-style-type: none;
+  display: inline;
+  padding: 7vw;
+}
 .yin
 {
   background-color: black;
@@ -40,7 +51,6 @@ li#nav
   padding-top: 3vw;
   padding-bottom: 2vw;
   color: white;
-  text-decoration: underline;
   font-size: 2vw;
 }
 .yang
@@ -50,7 +60,6 @@ li#nav
   color: white;
   padding-top: 3vw;
   padding-bottom: 2vw;
-  text-decoration: underline;
   font-size: 2vw;
 }
 .PSA
@@ -60,7 +69,6 @@ li#nav
   color: white;
   padding-top: 3vh;
   padding-bottom: 2vw;
-  text-decoration: underline;
   font-size: 2vw;
 }
 /*images*/
@@ -69,6 +77,12 @@ li#nav
   width: 8vw;
   height: 8vw;
 }
+.stream
+{
+  width: 9vw;
+  height: 9vw;
+}
+/*images*/
 .artwork
 {
   width: 92vw;
@@ -77,14 +91,14 @@ li#nav
   margin-left: auto;
   margin-right: auto;
 }
-.stream
+/*.stream
 {
   width: 90vw;
   height: 20vw;
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
+}*/
 .TV
 {
   width: 92vw;
