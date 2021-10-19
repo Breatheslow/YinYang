@@ -33,13 +33,15 @@ li#nav
   padding: 9vw;
 }
 /*content section*/
-
+ul#stream
+{
+  text-align: center;
+}
 li#stream
 {
   list-style-type: none;
   display: inline;
-  padding: 6.5vw;
-
+  padding: 3vw;
 }
 .yin
 {
