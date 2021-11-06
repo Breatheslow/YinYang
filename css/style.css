@@ -35,14 +35,14 @@ li#nav
   display: inline;
   padding: 9vw;
 }
-/*content section*/
-ul#stream
+/*Mood section*/
+ul#socialsList
 {
   text-align: center;
   padding-left: 3vw;
   padding-right: 3vw;
 }
-li#stream
+li#socials
 {
   list-style-type: none;
   display: inline;
@@ -59,6 +59,19 @@ li#stream
   font-family: 'Brush Script MT', cursive, "Times New Roman", Times, serif;
 
 }
+/*YinYang Section*/
+ul#streamList
+{
+  text-align: center;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+li#stream
+{
+  list-style-type: none;
+  display: inline;
+  padding: 1.5vw;
+}
 .yang
 {
   background-color: black;
@@ -69,6 +82,7 @@ li#stream
   font-size: 2vw;
   font-family: 'Brush Script MT', cursive, "Times New Roman", Times, serif;
 }
+/*Home section*/
 .PSA
 {
   background-color: black;
