@@ -13,9 +13,9 @@
 </header>
 <nav>
   <ul id="nav">
-    <li id="nav"><a href="pages/home.html"><img class="navigation" src="images/Home.png" alt="Home"></a></li>
-    <li id="nav"><a href="pages/yinyang.html"><img class="navigation" src="images/About.gif" alt="YinYang"></a></li>
-    <li id="nav"><a href="pages/mood.html"><img class="navigation" src="images/mood.gif" alt="Mood"></a></li>
+    <li id="nav"><a href="pages/home"><img class="navigation" src="images/Home.png" alt="Home"></a></li>
+    <li id="nav"><a href="pages/yinyang"><img class="navigation" src="images/About.gif" alt="YinYang"></a></li>
+    <li id="nav"><a href="pages/mood"><img class="navigation" src="images/mood.gif" alt="Mood"></a></li>
   </ul>
 </nav>
 <hr>
