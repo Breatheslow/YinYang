@@ -33,7 +33,7 @@ li#nav
 {
   list-style-type: none;
   display: inline;
-  padding: 9vw;
+  padding: 7vw;
 }
 /*Mood section*/
 ul#socialsList
@@ -109,6 +109,14 @@ li#stream
 {
   width: 92vw;
   height: 92vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.watchmore
+{
+  width: 50vw;
+  height: 8vw;
   display: block;
   margin-left: auto;
   margin-right: auto;
