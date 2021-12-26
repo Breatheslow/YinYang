@@ -82,6 +82,12 @@ li#stream
   font-size: 2vw;
   font-family: 'Brush Script MT', cursive, "Times New Roman", Times, serif;
 }
+.instagram
+{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
 /*Home section*/
 .PSA
 {
